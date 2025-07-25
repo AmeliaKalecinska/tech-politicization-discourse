@@ -1,6 +1,6 @@
-# From Big Tech to Big Politics: Reddit's Discourse on the Perceived Politicization of Tech Companies
+# From Big Tech to Big Politics: Reddit's Discourse on the Perceived Politicization of Technology Companies
 
-This repository contains all code, data, and prompts used for the research paper: **From Big Tech to Big Politics: Reddit's Discourse on the Perceived Politicization of Tech Companies**.
+This repository contains all code, data, and prompts used for the research paper: **From Big Tech to Big Politics: Reddit's Discourse on the Perceived Politicization of Technology Companies**.
 
 ## Project Overview
 
