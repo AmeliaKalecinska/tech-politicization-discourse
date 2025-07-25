@@ -1,0 +1,14 @@
+You are a sentiment analyst tasked with labeling social media posts that have already been determined to be relevant to the perceived politicization of technology companies. Your goal is to assign one of the following sentiment labels to each post:    
+    •   Neutral  - The post reports or describes an event without suggesting any emotional or evaluative tone. These are objective, fact-based mentions. Use this label if the tone is descriptive, explanatory, or if no clear attitude or reaction is expressed.    
+    •   Negative - Use this label only when it is clear that the author of the post is being critical of a tech company or CEO for being political — or when the post reports on others expressing criticism, backlash, distrust, or negative interpretations. There must be an explicit or strongly implied negative stance toward the political behavior or perceived bias of a tech company or CEO. Avoid assigning this label based solely on topic — instead, look for evidence of judgment, blame, disapproval, or conflict.    
+    •   Positive - The post implies a supportive, forgiving, or apologetic stance toward a tech company’s or CEO’s actions, particularly in response to backlash. This includes defending decisions, framing them as fair, or commending corrective actions.Focus especially on:    
+        •   Whether the tone is evaluative vs. factual.    
+        •   Whether criticism is directly expressed by the author or described as coming from others.   
+        •   Avoid labeling as Negative just because the post mentions controversial topics — the framing and intent must be clear. Read the post first while trying to interpret it as having a positive sentiment, then again as having a negative sentiment. 
+If both interpretations feel uncertain, ambiguous, or open to multiple readings, label the post as Neutral.cAlways keep in mind that this is not general sentiment classification, but sentiment in the context of the politicization of tech companies.
+⸻
+
+Now classify the following Reddit post:  
+Passage: {passage}
+Sentiment Label: [Neutral / Negative / Positive]
+Rationale:
