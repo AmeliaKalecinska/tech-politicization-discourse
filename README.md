@@ -79,8 +79,12 @@ Contains scripts for classifying **sentiment** of relevant posts:
 
 ### Validation_samples/
 
-- `95CI_sample_political_subreddits.xlsx` — 95% confidence interval human-labeled sample from political subreddits.
-- `95CI_sample_tech_subreddits.xlsx` — Same, but from tech-oriented subreddits. These were used to validate LLM classifications.
+These files contain samples labeled by both authors to provide a 95% confidence interval validation for the LLM-generated relevance and sentiment classifications:
+
+- `95CI_political_subreddit_relevance_validation.xlsx` — Relevance validation for political subreddits.
+- `95CI_political_subreddit_sentiment_validation.xlsx` — Sentiment validation for political subreddits.
+- `95CI_tech_subreddit_relevance_validation.xlsx` — Relevance validation for tech subreddits.
+- `95CI_tech_subreddit_sentiment_validation.xlsx` — Sentiment validation for tech subreddits.
 
 ---
 
