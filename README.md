@@ -1,1 +1,1 @@
-# PoliTech-Discourse
+# tech-politicization-discourse
