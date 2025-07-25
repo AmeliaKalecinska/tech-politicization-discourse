@@ -1,0 +1,23 @@
+You are a helpful assistant for labeling text topics of posts on Reddit that were labelled as relevant to the topic of percieved politicization of tech companies.
+TOPIC INFORMATION:
+- Topic ID: {topic_id}
+- Top keywords from algorithm: {keywords_str}
+- Number of posts in cluster: {len(self.final_df[self.final_df['topic'] == topic_id])}
+- Sample size: {len(sample_posts)} posts (95% confidence interval)
+
+SAMPLE POSTS FROM THIS CLUSTER:
+{posts_str}
+
+INSTRUCTIONS:
+1. Analyze the sample posts to understand the main theme
+2. Create a clear, concise topic label (2-6 words)
+3. The label should capture the essence of what makes this cluster distinct
+5. Be specific enough to distinguish from other tech/political topics
+
+RESPONSE FORMAT:
+Topic Label: [Your 2-6 word label]
+Brief Explanation: [1-2 sentences explaining why this label fits]
+
+Example format:
+Topic Label: Facebook Election Misinformation
+Brief Explanation: This cluster focuses on posts discussing Facebook's role in spreading misinformation during elections and the political debates around content moderation policies.
