@@ -33,9 +33,9 @@ tech-politicization-discourse/
 
 ### Appendix/ 
 
-- appendix.tex - the overleaf source code of the appendix chapter of the paper
-- Summary_of_Post_Counts_and_Sentiment_Distribution_by_Topic.pdf - per-topic table with total post counts and sentiment breakdown (counts & percentages)
-- Theme_Justifications_and_Representative_Samples.pdf - Table of LLM-derived topic names for each cluster, with short rationales, a representative post, and the similarity-to-centroid score
+- `appendix.tex` - the overleaf source code of the appendix chapter of the paper
+- `Summary_of_Post_Counts_and_Sentiment_Distribution_by_Topic.pdf` - per-topic table with total post counts and sentiment breakdown (counts & percentages)
+- `Theme_Justifications_and_Representative_Samples.pdf` - Table of LLM-derived topic names for each cluster, with short rationales, a representative post, and the similarity-to-centroid score
 
 ---
 
