@@ -41,7 +41,7 @@ tech-politicization-discourse/
 ---
 
 ### Figures/
-- `Validation Diagram.png` - – Diagram mapping RQ1–RQ3 to the specific analysis steps and outputs used to answer each research question.
+- `Validation Diagram.png` - Diagram mapping RQ1–RQ3 to the specific analysis steps and outputs used to answer each research question.
 
 ---
 
