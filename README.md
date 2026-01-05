@@ -21,6 +21,7 @@ The repository is organized as follows:
 tech-politicization-discourse/
 ├── Appendix/
 ├── Dataset/
+├── Figures/
 ├── LLM_prompts/
 ├── RQ1_analysis/
 ├── RQ2_analysis/
@@ -36,6 +37,11 @@ tech-politicization-discourse/
 - `appendix.tex` - the overleaf source code of the appendix chapter of the paper
 - `Summary_of_Post_Counts_and_Sentiment_Distribution_by_Topic.pdf` - per-topic table with total post counts and sentiment breakdown (counts & percentages)
 - `Theme_Justifications_and_Representative_Samples.pdf` - Table of LLM-derived topic names for each cluster, with short rationales, a representative post, and the similarity-to-centroid score
+
+---
+
+### Figures/
+- `Validation Diagram.png` - – Diagram mapping RQ1–RQ3 to the specific analysis steps and outputs used to answer each research question.
 
 ---
 
